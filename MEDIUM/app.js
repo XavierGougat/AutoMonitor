@@ -3,7 +3,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import logger from 'morgan';
-// set up dependencies
+// set up dependencies ...
 const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false });
