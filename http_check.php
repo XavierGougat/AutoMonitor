@@ -13,8 +13,8 @@ function check_http($url, $userAgent){
     /*Setup some of our options.   */     
     curl_setopt($ch, CURLOPT_URL, $url);
     /*curl_setopt($ch, CURLOPT_POST, true);*/
-    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($postFields));*/
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($postFields));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch,CURLOPT_USERAGENT, $userAgent);
 
     /*Execute the cURL request. */       
