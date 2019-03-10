@@ -1,0 +1,13 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['dashboard']="Dashboard";
+$lang['about']="About";
+$lang['pricing']="Pricing";
+$lang['help']="Help";
+$lang['contact']="Contact";
+$lang['monitors']="Monitors";
+$lang['settings']="Settings";
+$lang['upgrade']="Upgrade";
+$lang['add_monitor']="Add monitor";
+$lang['close']="Close";
+$lang['night_mode']="Night mode";
+$lang['logout']="Logout";

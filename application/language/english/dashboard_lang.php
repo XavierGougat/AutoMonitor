@@ -1,0 +1,18 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$lang['event']="Event";
+$lang['monitor']="Monitor";
+$lang['datetime']="Datetime";
+$lang['response']="Response";
+$lang['duration']="Duration";
+$lang['last_day_uptime']="last day uptime";
+$lang['last_week_uptime']="last week uptime";
+$lang['last_month_uptime']="last month uptime";
+$lang['overall_uptime']="overall uptime";
+$lang['down_monitors']="down monitors";
+$lang['up_monitors']="up monitors";
+$lang['no_downtime']="no downtime";
+$lang['was_last_downtime']="was last downtime";
+$lang['monitors_are_up']="OK Roger that! All monitors are up. Just sit back and relax!";
+$lang['monitors_are_down']="Ouch! Some monitors seem to be down. You should take a look!";
+$lang['add_a_monitor']="Add a monitor now, and sleep peacefully.";
+$lang['add_a_monitor_button']="Add a monitor";

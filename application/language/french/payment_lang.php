@@ -1,0 +1,32 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+//FRENCH TRANSLATIONS
+$lang['upgrade_title'] = 'Passer au forfait Pro.';
+$lang['subscription'] = 'Abonnement';
+$lang['subscribe'] = 'Souscrire';
+$lang['charge'] = 'Débit';
+$lang['price'] = 'Prix';
+$lang['monthly_subscription'] = 'Abonnement mensuel';
+$lang['monthly'] = 'mensuel';
+$lang['vat_free'] = 'sans TVA';
+$lang['secured'] = 'Sécurisé';
+$lang['card_name'] = 'NOM COMPLET';
+$lang['card_name_placeholder'] = 'Nom complet ou raison sociale (comme indiqué sur la carte)';
+$lang['card_number'] = 'NUMERO DE CARTE';
+$lang['card_number_placeholder'] = 'Numéro de carte valable';
+$lang['expiration_date'] = 'DATE EXPIRATION';
+$lang['cvc'] = 'CVC';
+$lang['cvc_title'] = 'Les 3 ou 4 derniers chiffres derrière la carte';
+$lang['cvc_placeholder'] = '3 ou 4 chiffres';
+$lang['pay'] = 'Payer';
+$lang['payment_in_progress'] = 'Paiement en cours...';
+//Invoicing details
+$lang['my_subscription'] = 'Mon abonnement';
+$lang['next_invoice'] = 'Prochaine facture : ';
+$lang['cancel_subscription'] = 'Résilier l\'abonnement';
+$lang['subscription_line_1'] = 'Les frais d\'abonnement sont facturés au début de chaque période.';
+$lang['subscription_line_2'] = 'Il est possible que vous deviez attendre quelques jours après la date de facturation avant que ces frais n\'apparaissent sur votre compte.';
+$lang['my_invoices'] = 'Mes factures';
+$lang['service_period'] = 'Période de service';
+$lang['amount_billed'] = 'Montant facturé';
+$lang['state'] = 'Etat';
+$lang['payed'] = 'Payé';
